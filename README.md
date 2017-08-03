@@ -4,8 +4,8 @@
 ### 同上个项目对比
     增加了express中间件，连接数据库，本地地址请求数据,删除了vuex和mock.js
 ### 动态图
-![image](http://note.youdao.com/favicon.ico)
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/Summer-Lin/driving-booking2/blob/master/images/driving.gif)
+![image](https://github.com/Summer-Lin/driving-booking2/blob/master/images/sql.gif)
 
 ### 项目结构
 - express-mysql
